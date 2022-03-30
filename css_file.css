@@ -1,0 +1,580 @@
+#bgimg {
+    background-image: url(1.jpg);
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    margin-top: -1ch;
+}
+
+#td1 {
+    column-width: 7cm;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+#td2 {
+    column-width: 4cm;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+#gmail {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#td3 {
+    color: aliceblue;
+    font-size: larger;
+}
+
+#table1 {
+    margin-left: 5.9cm;
+}
+
+#div1 {
+    height: 2cm;
+    width: 100%;
+    background-color: rgb(0, 0, 0, 0.4);
+}
+
+.best {
+    font-size: 0.9cm;
+    color: rgb(99, 64, 252);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.AUTYYLE {
+    font-size: 0.9cm;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+
+#span1 {
+    column-width: 2ch;
+}
+
+#span2 {
+    column-width: 5cm;
+}
+
+#table2 {
+    margin-left: 5.6cm;
+}
+
+.AboutUs {
+    font-size: 2ch;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.AboutUs:hover {
+    color: rgb(233, 94, 117);
+}
+
+.span3 {
+    column-width: 3ch;
+}
+
+#home {
+    color: rgb(233, 94, 117);
+}
+
+.biglogo {
+    color: rgb(245, 79, 107);
+    font-size: 3cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.biglogo1 {
+    color: rgb(255, 255, 255);
+    font-size: 3cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#span4 {
+    column-width: 3ch;
+}
+
+#table3 {
+    margin-left: 11cm;
+}
+
+.faketxt1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#biglogo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6ch;
+    margin-left: 18cm
+}
+
+.span5 {
+    column-width: 3ch;
+}
+
+#table4 {
+    margin-left: 9%;
+}
+
+.aboutUsInfo {
+    border-bottom: 2px;
+    border-left: 2px;
+    border-right: 2px;
+    border-top: 0px;
+    border-style: solid;
+    border-color: red;
+}
+
+#services1 {
+    background-image: url(s1.jpg);
+    height: 9cm;
+    width: 13.2cm;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+}
+
+#services2 {
+    background-image: url(s2.jpg);
+    height: 9cm;
+    width: 13.2cm;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+}
+
+#services3 {
+    background-image: url(s3.jpg);
+    height: 9cm;
+    width: 13.2cm;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+}
+
+#services4 {
+    background-image: url(s4.jpg);
+    height: 9cm;
+    width: 13.2cm;
+    background-size: 109%;
+    color: rgb(255, 255, 255);
+}
+
+#services5 {
+    background-image: url(s5.jpg);
+    height: 9cm;
+    width: 13.2cm;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+}
+
+#services6 {
+    background-image: url(s6.jpg);
+    height: 9cm;
+    width: 13.2cm;
+    background-size: 109%;
+    color: rgb(255, 255, 255);
+}
+
+.services_bg_opacity1 {
+    background-color: rgb(0, 0, 0, 0.5);
+    height: 9cm;
+    width: 13.2cm;
+}
+
+.info {
+    width: 16cm;
+    height: 7ch;
+    margin-left: 4ch;
+}
+
+.info:hover {
+    background-color: rgb(180, 178, 178, 0.5);
+}
+
+#form1 {
+    width: 16cm;
+    margin-left: 5cm;
+}
+
+#submit1 {
+    background-color: rgb(233, 94, 117);
+    border: none;
+}
+
+#submit1:hover {
+    background-color: rgba(132, 132, 236, 0.5);
+}
+
+#reg {
+    height: 15cm;
+    width: 15cm;
+}
+
+#Pricing {
+    height: 98%;
+    width: 100%;
+    background-image: url(p3.webp);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#h11 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5cm;
+    color: rgb(255, 255, 255);
+}
+
+#Pricing2 {
+    background-color: rgb(255, 255, 255);
+    height: 13cm;
+    width: 34.5cm;
+    margin-left: 7%;
+    border-radius: 1ch;
+}
+
+.price {
+    column-width: 11.5cm;
+}
+
+.PREMIUmLUXURY {
+    font-size: 4ch;
+    color: rgb(28, 146, 241);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#PREMIUM {
+    font-size: 4ch;
+    color: rgb(252, 86, 113);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.r29 {
+    font-size: 5ch;
+}
+
+.Manicure_Pedicure {
+    color: rgb(179, 179, 179);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+#priceinp1 {
+    background-color: rgb(71, 163, 238);
+    border: none;
+    height: 1.2cm;
+    width: 3.5cm;
+    color: rgb(255, 255, 255);
+    margin-left: 35%;
+}
+
+#priceinp1:hover {
+    background-color: rgb(233, 94, 117);
+}
+
+#priceinp2 {
+    background-color: rgb(248, 85, 112);
+    border: none;
+    height: 1.2cm;
+    width: 3.5cm;
+    color: rgb(255, 255, 255);
+    margin-left: 35%;
+}
+
+#priceinp2:hover {
+    background-color: rgb(71, 163, 238);
+}
+
+#priceinp3 {
+    background-color: rgb(71, 163, 238);
+    border: none;
+    height: 1.2cm;
+    width: 3.5cm;
+    color: rgb(255, 255, 255);
+    margin-left: 35%;
+}
+
+#priceinp3:hover {
+    background-color: rgb(233, 94, 117);
+}
+
+#priceid1 {
+    border-width: 0px 1px;
+    border-color: gray;
+    border-style: solid;
+}
+
+#LatestNews {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5cm;
+    color: rgb(0, 0, 0);
+}
+
+.imgOfNews {
+    width: 14.5cm;
+}
+
+.span6 {
+    column-width: 2.5ch;
+}
+
+#table8 {
+    margin-left: 14%;
+}
+
+#newsDiv1 {
+    height: 1.4cm;
+    background-color: rgb(248, 197, 58);
+    margin-top: -3ch;
+    width: 14.5cm;
+}
+
+#newsDiv2 {
+    height: 1.4cm;
+    background-color: rgb(134, 248, 112);
+    margin-top: -3ch;
+    width: 14.5cm;
+}
+
+#newsDiv3 {
+    height: 1.4cm;
+    background-color: rgb(233, 94, 117);
+    margin-top: -3ch;
+    width: 14.5cm;
+}
+
+#newsDiv4 {
+    height: 1.4cm;
+    background-color: rgb(69, 129, 207);
+    margin-top: -3ch;
+    width: 14.5cm;
+}
+
+.dateOfevent {
+    color: rgb(255, 255, 255);
+    font-size: 3ch;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.newstd {
+    width: 14.5cm;
+}
+
+.linknews {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 3ch;
+}
+
+.h4news {
+    color: rgb(175, 173, 173);
+    width: 14.5cm;
+}
+
+#ourTrms {
+    height: 14cm;
+    background-color: rgb(142, 218, 241);
+}
+
+#h1team {
+    font-size: 1.5cm;
+}
+
+.span7 {
+    column-width: 3ch;
+}
+
+#table9 {
+    margin-left: 12%;
+}
+
+#contactush1 {
+    font-size: 1.5cm;
+    margin-left: 21%;
+}
+
+#contyactusINP1 {
+    width: 18cm;
+    height: 7ch;
+}
+
+#contyactusINP2 {
+    width: 18cm;
+    height: 7ch;
+}
+
+#contyactusINP3 {
+    width: 18cm;
+    height: 4.8cm;
+}
+
+#contyactusINP4 {
+    height: 1cm;
+    width: 3cm;
+    background-color: rgb(0, 140, 255);
+    border: none;
+}
+
+#contyactusINP4:hover {
+    background-color: beige;
+}
+
+#contactush {
+    margin-left: 10%;
+}
+
+#contyactusINP5 {
+    width: 12cm;
+    height: 6cm;
+    background-color: rgb(255, 68, 131);
+    border-radius: 0.5ch;
+    box-shadow: 5px 5px 10px 0.5px rgb(65, 64, 64, 0.5);
+}
+
+.callUs {
+    font-size: 3ch;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.span9 {
+    column-width: 2ch;
+}
+
+.span10 {
+    height: 2ch;
+}
+
+#Locateus1 {
+    color: rgb(255, 255, 255);
+}
+
+#Locateus2 {
+    color: rgb(255, 255, 255);
+}
+
+#Locateus3 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#contactusTable {
+    padding: 5ch;
+}
+
+#instagrampost {
+    background-color: rgb(255, 68, 131);
+    width: 6cm;
+    height: 7ch;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 42%;
+}
+
+#instsH1 {
+    padding: 7%;
+}
+
+.instaimg {
+    width: 9.5cm;
+}
+
+#instaimg1 {
+    margin-left: 2%;
+}
+
+#Subscribe {
+    background-image: url(sub4.jpg);
+    height: 6cm;
+    margin-top: -0.5ch;
+}
+
+#SubscribeH1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Subscribeinp1 {
+    margin-left: 30%;
+    height: 1.2cm;
+    width: 13cm;
+    background-color: rgb(255, 255, 255, 0.0);
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#Subscribeinp2 {
+    height: 1.2cm;
+    width: 3.5cm;
+    background-color: rgb(0, 162, 255);
+    border: none;
+    margin-left: -1ch;
+}
+
+#Subscribeinp2:hover {
+    background-color: aqua;
+}
+
+#TWEETS {
+    background-color: rgb(0, 0, 0);
+    height: 11.5cm;
+}
+
+.best2 {
+    font-size: 0.9cm;
+    color: rgb(99, 64, 252);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.AUTYYLE2 {
+    font-size: 0.9cm;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.twith2 {
+    color: rgb(255, 255, 255);
+}
+
+.span11 {
+    column-width: 3ch;
+}
+
+.tweetstd1 {
+    width: 10cm;
+}
+
+.tweettxt {
+    color: rgb(182, 179, 179);
+}
+
+.span12 {
+    height: 2ch;
+}
+
+#twimg1 {
+    width: 15ch;
+    margin-top: -3ch;
+}
+
+.finalh4 {
+    color: rgb(255, 255, 255);
+}
+
+#lastlink {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+#final {
+    margin-left: 6%;
+}
+
+#malasidha {
+    color: rgb(192, 192, 192);
+    font-family: cursive;
+}
